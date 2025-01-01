@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**AbdulHaqq2001/AbdulHaqq2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to Abdul Haqq’s GitHub Profile!
 
-Here are some ideas to get you started:
+Hi there! I’m Abdul, a **data engineering enthusiast** passionate about solving challenges with innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)  
+
+---
+
+## 🌟 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulHaqq2001&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulHaqq2001&layout=compact&theme=radical)  
+
+---
+
+Thanks for visiting! 🚀  
