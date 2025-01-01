@@ -1,7 +1,7 @@
 
 # 👋 Welcome to Abdul Haqq’s GitHub Profile!
 
-Hi there! I’m Abdul, a **data engineering enthusiast** passionate about solving challenges with innovative solutions.
+Hi there! I’m AbdulHaqq, a **data engineering enthusiast** passionate about solving challenges with innovative solutions.
 
 ---
 
@@ -12,10 +12,5 @@ Hi there! I’m Abdul, a **data engineering enthusiast** passionate about solvin
 
 ---
 
-## 🌟 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulHaqq2001&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulHaqq2001&layout=compact&theme=radical)  
-
----
 
 Thanks for visiting! 🚀  
