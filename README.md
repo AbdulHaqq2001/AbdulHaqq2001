@@ -34,8 +34,6 @@ Hi there! I’m Abdul Haqq, a **data engineering enthusiast** with a passion for
 
 ---
 ## 🌟 Let's Connect!  
-💼 [LinkedIn](www.linkedin.com/in/abdulhaqofficial)  
-📫 [Email Me](abdulhaqaxmadxanov@gmail.com)  
-
+💼 [LinkedIn](https://www.linkedin.com/in/abdulhaqofficial/)  
 
 Thanks for visiting! 🚀  
